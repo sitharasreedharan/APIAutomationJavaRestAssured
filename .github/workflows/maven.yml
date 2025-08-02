@@ -7,9 +7,9 @@ on:
     branches: [ "master" ]
 
 permissions:
-     contents: read
-     security-events: write
-     id-token: write
+  contents: read
+  security-events: write
+  id-token: write
 jobs:
   build:
 
